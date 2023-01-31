@@ -31,11 +31,12 @@ Azure Health Bot URL : https://centralindia.healthbot.microsoft.com/account/proj
 
 ## ABOUT-
 ![Screenshot_20230131_205921](https://user-images.githubusercontent.com/118154515/215806032-6f0ac1c5-12c8-4d5d-9972-37ff661d74b5.png)
-![Screenshot_20230131_210037](https://user-images.githubusercontent.com/118154515/215806114-a710f7df-298f-41a2-bad7-7f4e2b71e6df.png)
 
 
 ## TYPO-
 ![Screenshot_20230131_210104](https://user-images.githubusercontent.com/118154515/215806158-fe2e800d-3bc0-4fd2-9b2c-0286584bdaa5.png)
+![Screenshot_20230131_210037](https://user-images.githubusercontent.com/118154515/215806114-a710f7df-298f-41a2-bad7-7f4e2b71e6df.png)
+
 
 
 ## GALLARY-
